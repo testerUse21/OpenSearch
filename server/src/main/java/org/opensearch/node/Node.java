@@ -399,6 +399,10 @@ public class Node implements Closeable {
                     Arrays.toString(initialEnvironment.dataFiles()),
                     initialEnvironment.logsDir(),
                     initialEnvironment.pluginsDir()
+                     initialEnvironment.configDir(),
+                    Arrays.toString(initialEnvironment.dataFiles()),
+                    initialEnvironment.logsDir(),
+                    initialEnvironment.pluginsDir()
                 );
             }
 
