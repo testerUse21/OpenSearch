@@ -30,6 +30,13 @@
  * GitHub history for details.
  */
 
+
+/*
+ * Modifications Copyright OpenSearch Contributors. See
+ * GitHub history for details.
+ */
+
+
 package org.opensearch.node;
 
 import org.apache.logging.log4j.LogManager;
